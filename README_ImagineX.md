@@ -1,6 +1,6 @@
-# 🧠 Visionary Hub – Full Stack AI SaaS Image Generator
+# 🧠ImagineX – Full Stack AI SaaS Image Generator
 
-**Visionary Hub** is a modern full-stack SaaS application that allows users to generate stunning images from text prompts using the **Clipdrop API**. Built with the **MERN Stack**, this platform offers a seamless AI-driven experience with secure authentication, a credit-based usage system, and integrated online payments.
+**ImagineX** is a modern full-stack SaaS application that allows users to generate stunning images from text prompts using the **Clipdrop API**. Built with the **MERN Stack**, this platform offers a seamless AI-driven experience with secure authentication, a credit-based usage system, and integrated online payments.
 
 > 💡 Turn your ideas into visuals — instantly powered by AI.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 Why Visionary Hub Stands Out
+## 🎯 Why ImagineX Stands Out
 
 - ✨ **AI-Powered Image Generation** – Instantly create visuals using the Clipdrop API.
 - 🔐 **Secure Authentication** – Built with robust JWT-based login system.
@@ -32,7 +32,7 @@
 | Database      | MongoDB Atlas                          |
 | Authentication| JWT, bcrypt                            |
 | AI API        | Clipdrop API                           |
-| Payments      | Stripe / Online Payment Gateway        |
+| Payments      | Online Payment Gateway                 |
 | Deployment    | Vercel / Render (Optional)             |
 
 ---
@@ -90,7 +90,7 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 - Full RESTful API with Express.js
 - JWT-based auth and session handling
 - Integration with Clipdrop API for AI generation
-- Stripe integration for secure credit purchases
+- Razorpay integration for secure credit purchases
 - Credit tracking and user role management
 - MongoDB for data persistence (users, credits, images)
 
@@ -99,7 +99,7 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 ## 📦 Key Dependencies
 
 - **Frontend:** React, Tailwind CSS, axios, react-router-dom
-- **Backend:** Express, Mongoose, bcrypt, JWT, Stripe
+- **Backend:** Express, Mongoose, bcrypt, JWT,Razorpay
 - **AI:** Clipdrop API
 - **Database:** MongoDB Atlas
 
@@ -107,9 +107,9 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 
 ## 👨‍💻 Author & Contact
 
-**🧑‍💻 Author:** Sidhi Garg  
-📧 Email: [sidhigargofficial20@gmail.com](mailto:sidhigargofficial20@gmail.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/sidhi-garg-999932359/](https://www.linkedin.com/in/sidhi-garg-999932359/)
+**🧑‍💻 Author:** Ridhi Garg  
+📧 Email: (mailto:ridhigargofficial20@gmail.com)  
+🔗 LinkedIn: https://www.linkedin.com/in/ridhi-garg-69292a359/
 
 ---
 
