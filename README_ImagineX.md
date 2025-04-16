@@ -8,7 +8,7 @@
 
 ## 🌐 Live Demo
 
-🚀 Coming Soon...
+🚀 https://imaginex-1.onrender.com/
 
 ---
 
